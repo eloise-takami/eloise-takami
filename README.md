@@ -1,4 +1,4 @@
-## Oiii! Me chamo Eloise Takami 
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=eloise-takami&repo=eloise-takami&countColorcountColor)
  <div>
   <a href="https://github.com/eloise-takami">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloise-takami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

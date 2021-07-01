@@ -1,4 +1,4 @@
-![Profile Views](https://github.com/eloise-takami)
+<h1>OOOIII !!! Eu sou a Eloise Takami ! </h1>
  <div>
   <a href="https://github.com/eloise-takami">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloise-takami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

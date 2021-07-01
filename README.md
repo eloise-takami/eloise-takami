@@ -9,6 +9,7 @@
 </div>
 
 <div> 
+<h1>Conecte-se comigo:</h1>
 <a href="https://instagram.com/eloisetakami" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <a href = "mailto:elose.takami@gmail.com.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

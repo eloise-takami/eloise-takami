@@ -1,4 +1,4 @@
-<h1>System.out.println("Hello Word! Eu sou a Eloise Takami !!");  </h1>
+<h1>System.out.println("Hello Word! I'm Eloise Takami");  </h1>
  <div>
   <a href="https://github.com/eloise-takami">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloise-takami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -9,7 +9,7 @@
 </div>
 
 <div> 
-Conecte-se comigo:
+connect with me:
 <br><br>
 <a href="https://instagram.com/eloisetakami" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:elose.takami@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

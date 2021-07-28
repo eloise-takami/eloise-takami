@@ -11,7 +11,7 @@
  <h2>connect with me:</h2>
 
 <a href="https://instagram.com/eloisetakami" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:elose.takami@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%CC2121?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:elose.takami@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%C42E2E?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/eloisetakami" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B9?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/eloise-takami/eloise-takami/blob/output/github-contribution-grid-snake.svg)

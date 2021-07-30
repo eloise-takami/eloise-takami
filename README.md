@@ -1,4 +1,8 @@
-<h2>System.out.println("Hello Word! I'm Eloise Takami");  </h2>
+<h2>Hello World! I'm Elo 🤟  </h2>
+
+ - 📱 I’m currently learning about Mobile Applications with Flutter and Dart. Also, I'm learning something about UX/UI design.
+ - 👩‍💻 I love logic challenges and trying to apply them in Python.
+ - ⚡ Fun fact: I love to learn new things, feel free to connect with me so we can share some ideas.
  <div>
   <a href="https://github.com/eloise-takami">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eloise-takami&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
